@@ -7,4 +7,4 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 | Key          | Description          | Mode |
 |--------------|----------------------|------|
-| <c-t>        | Terminal with border | *n*  |
+| `<c-t>`      | Terminal with border | *n*  |
